@@ -5,9 +5,8 @@ description: About this site and its author
 
 ## About Me
 
-Hello! I'm a developer who loves building things for the web.
-
-I created this site using [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com), and I'm sharing it as a theme called **Breeze** so others can use it too.
+こんにちは．私は電気通信大学I類に所属している学生です．\
+入学年度は25年の現在(2026-03-10)B2です．
 
 ## Tech Stack
 
@@ -17,10 +16,10 @@ I created this site using [Astro](https://astro.build) and [Tailwind CSS](https:
 
 ## What I Write About
 
-- Web development tips and tutorials
-- Tools and workflows I find useful
-- Thoughts on technology and design
+- 使っている便利なツールの紹介
+- 開発中のプロジェクトについてのあれこれ
+- その他様々なもの
 
 ## Contact
 
-Feel free to reach out through the social links below.
+以下のリンクからご連絡ください．

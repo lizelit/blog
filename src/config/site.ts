@@ -2,7 +2,7 @@ const site = {
   // --- Site Metadata ---
   meta: {
     title: "Lizelit's pages",
-    description: "A minimal Astro theme for personal websites",
+    description: "Hello, This is my page.",
     author: "Lizelit",
     logo: "/logo.svg",
     ogImage: "/og-image.png",
@@ -25,25 +25,35 @@ const site = {
   social: [
     {
       name: "GitHub",
-      href: "https://github.com/your-username",
+      href: "https://github.com/lizelit",
       icon: "mdi:github",
     },
-    { name: "Email", href: "mailto:hello@example.com", icon: "mdi:email" },
+    {
+      name: "X",
+      href: "https://x.com/anata_lit",
+      icon: "mdi:twitter",
+    },
+    {
+      name: "Zenn",
+      href: "https://zenn.dev/anatalit",
+      icon: "mdi:alpha-z-circle",
+    },
+    { name: "Email", href: "lizelit.you@gmail.com", icon: "mdi:email" },
   ],
 
   // --- Homepage Hero ---
   hero: {
-    greeting: "👋 Hello, I'm Breeze",
+    greeting: "Welcome to my page!",
     // Supports HTML. Use <span class="font-medium text-foreground underline decoration-primary/30"> to highlight keywords
     description:
-      'A minimal personal website theme built with <span class="font-medium text-foreground underline decoration-primary/30">Astro</span> and <span class="font-medium text-foreground underline decoration-primary/30">Tailwind CSS</span>.',
+      "あなた(lizelit)の個人サイトです．電気通信大学のI類に所属しています",
     cards: [
       {
         icon: "mdi:explore",
         label: "Status",
-        value: "Building something cool",
+        value: "Building Roil",
       },
-      { icon: "mdi:location", label: "Location", value: "Earth" },
+      { icon: "mdi:location", label: "Location", value: "Tokyo" },
     ],
   },
 

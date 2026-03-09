@@ -1,9 +1,38 @@
 [
   {
-    "id": "breeze",
-    "name": "Breeze Theme",
-    "description": "A minimal Astro theme",
-    "link": "https://github.com",
+    "id": "ctes",
+    "name": "ctes091x",
+    "link": "https://ctes091x.net/",
+    "avatar": "/logo.svg"
+  },
+  {
+    "id": "shiori",
+    "name": "しおり",
+    "link": "https://shiori-02-14.github.io/Homepage/",
+    "avatar": "/logo.svg"
+  },
+  {
+    "id": "shiba",
+    "name": "shibadogcap",
+    "link": "https://memo.shibadogcap.com/",
+    "avatar": "/logo.svg"
+  },
+  {
+    "id": "shiba",
+    "name": "shibadogcap",
+    "link": "https://memo.shibadogcap.com/",
+    "avatar": "/logo.svg"
+  },
+  {
+    "id": "tramutton",
+    "name": "TraMutton",
+    "link": "https://toramutton.me/",
+    "avatar": "/logo.svg"
+  },
+  {
+    "id": "cotton",
+    "name": "Cotton",
+    "link": "https://cotton7.me/",
     "avatar": "/logo.svg"
   }
 ]
