@@ -38,7 +38,7 @@ const site = {
       href: "https://zenn.dev/anatalit",
       icon: "mdi:alpha-z-circle",
     },
-    { name: "Email", href: "lizelit.you@gmail.com", icon: "mdi:email" },
+    { name: "Email", href: "mailto:lizelit.you@gmail.com", icon: "mdi:email" },
   ],
 
   // --- Homepage Hero ---
